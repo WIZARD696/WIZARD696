@@ -46,7 +46,7 @@ I enjoy working across frontend and backend technologies, exploring modern web d
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🤖 Exploring **Agentic AI and AI-driven application development**
 - 🏆 Participated in **4+ Hackathons**
-- 🧩 Solved **100+ LeetCode problems**
+- 🧩 Solved **150+ LeetCode problems**
 - 🌱 Currently learning the **MERN Stack**
 - ⚡ I enjoy turning ideas into functional applications and learning through hands-on development
 
@@ -88,7 +88,7 @@ I enjoy working across frontend and backend technologies, exploring modern web d
 
 ### LeetCode
 
-- 🧩 **100+ Problems Solved**
+- 🧩 **150+ Problems Solved**
 - 📈 Continuously improving Data Structures & Algorithms
 - 🎯 Focused on developing efficient problem-solving skills
 
@@ -99,7 +99,7 @@ I enjoy working across frontend and backend technologies, exploring modern web d
 ## 🏆 Achievements
 
 - 🏅 **Participated in 4+ Hackathons**
-- 💻 **Solved 100+ LeetCode Problems**
+- 💻 **Solved 150+ LeetCode Problems**
 - 📊 **8.45 CGPA** in B.Tech Information Technology (till 4th semester)
 - 🤖 Completed **Agentic AI Foundations** by Oracle
 
